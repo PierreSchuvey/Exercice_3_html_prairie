@@ -1,0 +1,14 @@
+.italic{
+  font-style: italic;
+}
+
+.rouge{
+  color: red;
+}
+ .vert{
+   color: green;
+ }
+
+ .bold{
+   font-weight: bold;
+ }
